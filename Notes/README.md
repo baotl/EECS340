@@ -15,8 +15,8 @@
 # Recitation Notes
 | Week | Dates | Notes |
 | --- | --- | --- |
-| 2 | 1/12, 1/14 | [Intro to Sockets](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/sockets_intro.pdf); [Intro to Project 1](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/project1_recitation.pdf); UNIX, emacs, gcc, and make |
-| 3	| 1/19, 1/21 | Advanced Sockets; client.c; selectserver.c |
+| 2 | 1/12, 1/14 | [Intro to Sockets](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/sockets_intro.pdf); [Intro to Project 1](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/project1_recitation.pdf); [UNIX, emacs, gcc, and make](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/unix_tools.pdf) |
+| 3	| 1/19, 1/21 | [Advanced Sockets](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/advanced_sockets.pdf); [client.c](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/client.c); [selectserver.c](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/selectserver.c) |
 | 4	| 1/26, 1/28 | IP Assignments |
 | 5	| 2/2, 2/4 | |
 | 6	| 2/9, 2/11	| Project 2; Useful Project 2 - related links
