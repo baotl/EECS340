@@ -6,11 +6,11 @@
 | 3 | 1/20 | [Socket Programming](https://github.com/yuanhui-yang/EECS340/blob/master/Notes/class5.ppt?raw=true) | 1/22 | [Transport Layer (intro, Multiplexing/demultiplexing, UDP)](https://github.com/yuanhui-yang/EECS340/blob/master/Notes/class6.ppt?raw=true) |
 | 4 | 1/27 | [Principles of reliable data transfer](https://github.com/yuanhui-yang/EECS340/blob/master/Notes/class7.ppt?raw=true) | 1/29 | NO CLASS |
 | 5 | 2/3 | [Connection oriented transport and congestion control: TCP](https://github.com/yuanhui-yang/EECS340/blob/master/Notes/class8.ppt?raw=true) | 2/5 | [TCP](https://github.com/yuanhui-yang/EECS340/blob/master/Notes/class9.ppt?raw=true) |
-| 6 | 2/10 | Review for Midterm | 2/12 | Midterm |
-| 7 | 2/17 | Network Layer (intro, routing principles, routing algorithms) | 2/19 | Network Layer (IP) |
-| 8 | 2/24 | Network Layer (hierarchical routing, RIP, OSPF, BGP) | 2/26 | Data Link Layer (intro, error detection/correction, multiple access protocols) |
-| 9 | 3/2 | Data Link Layer (link-layer addressing, Ethernet, hubs and switches) | 3/4 | Wireless and Mobile Networks (intro, wireless links, 802.11 wireless LANs) |
-| 10 | 3/9 | Networking Security | 3/11 | Review for final/Research in networking |
+| 6 | 2/10 | [Review for Midterm](https://github.com/yuanhui-yang/EECS340/blob/master/Notes/class11.ppt?raw=true) | 2/12 | Midterm |
+| 7 | 2/17 | [Network Layer (intro, routing principles, routing algorithms)](https://github.com/yuanhui-yang/EECS340/blob/master/Notes/class12.ppt?raw=true) | 2/19 | [Network Layer (IP)](https://github.com/yuanhui-yang/EECS340/blob/master/Notes/class13.ppt?raw=true) |
+| 8 | 2/24 | [Network Layer (hierarchical routing, RIP, OSPF, BGP)](https://github.com/yuanhui-yang/EECS340/blob/master/Notes/class14.ppt?raw=true) | 2/26 | [Data Link Layer (intro, error detection/correction, multiple access protocols)](https://github.com/yuanhui-yang/EECS340/blob/master/Notes/class15.ppt?raw=true) |
+| 9 | 3/2 | [Data Link Layer (link-layer addressing, Ethernet, hubs and switches)](https://github.com/yuanhui-yang/EECS340/blob/master/Notes/class16.ppt?raw=true) | 3/4 | [Wireless and Mobile Networks (intro, wireless links, 802.11 wireless LANs)](https://github.com/yuanhui-yang/EECS340/blob/master/Notes/class17.ppt?raw=true) |
+| 10 | 3/9 | [Networking Security](https://github.com/yuanhui-yang/EECS340/blob/master/Notes/class18.ppt?raw=true) | 3/11 | [Review for final/Research in networking](https://github.com/yuanhui-yang/EECS340/blob/master/Notes/class19.ppt?raw=true) |
 
 # Recitation Notes
 | Week | Dates | Notes |
