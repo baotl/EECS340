@@ -39,3 +39,6 @@ It's OK to ask someone about the concepts, algorithms, or approaches needed to d
 | Wed 1/6 | Class overview, Computer Networks and the Internet (Internet architecture, protocols, circuit- and packet-switching) | Ch. 1.1-1.3, 1.7; Handout for project 1 | Project 1 out. Find partner (groups of up to 2). |
 | Fri 1/8 | Computer Networks and the Internet (access networks, physical media, delay and loss, layered architecture, attacks) | Ch. 1.4 - 1.6 | Homework 1 out. |
 | Wed 1/13 | Application Layer (Web, HTTP, FTP) | Ch. 2.1 - 2.3 | |
+| Fri 1/15 | Application Layer (Email, DNS, P2P) | Ch. 2.4 - 2.6 | |
+| Wed 1/20 | Socket Programming | | |
+| Fri 1/22 | Transport Layer (intro, Multiplexing/demultiplexing, UDP) | Ch. 2.7 - 2.9 | Homework 1 in. Homework 2 out. |
