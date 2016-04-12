@@ -23,8 +23,8 @@
 * [The Minet TCP/IP Stack (2)]()
 * [UNIX System Programming in a Nutshell]()
 * [Useful UNIX Tools]()
-  1 particularly useful for Project 1
-  2 particularly useful for Project 2
+..1 particularly useful for Project 1
+..2 particularly useful for Project 2
 
 # Homework
 
