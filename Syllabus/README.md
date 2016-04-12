@@ -34,3 +34,6 @@ Unless otherwise indicated, homeworks and projects are due by the end of lecture
 It's OK to ask someone about the concepts, algorithms, or approaches needed to do the project assignments, I encourage you to do so; both giving and taking advice will help you to learn. However, what you turn in must be your own, or for projects, your group's own work; copying other people's code, solution sets, or from any other sources is strictly prohibited. We will punish transgressors severely.
 
 # Schedule
+| Date | Lecture Topics | Reading | Assignment |
+| --- | --- | --- | --- |
+| Wed 1/6 | Class overview, Computer Networks and the Internet (Internet architecture, protocols, circuit- and packet-switching) | Ch. 1.1-1.3, 1.7; Handout for project 1 | Project 1 out. Find partner (groups of up to 2). |
