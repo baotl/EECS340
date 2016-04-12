@@ -42,3 +42,18 @@ It's OK to ask someone about the concepts, algorithms, or approaches needed to d
 | Fri 1/15 | Application Layer (Email, DNS, P2P) | Ch. 2.4 - 2.6 | |
 | Wed 1/20 | Socket Programming | | |
 | Fri 1/22 | Transport Layer (intro, Multiplexing/demultiplexing, UDP) | Ch. 2.7 - 2.9 | Homework 1 in. Homework 2 out. |
+| Wed 1/27 | Principles of reliable data transfer | Ch. 3.1 - 3.3 | Project 1 in. Project 2 out. |
+| Fri 1/29 | NO CLASS | Ch. 3.4 | |
+| Wed 2/3 | Connection oriented transport and congestion control: TCP | Ch. 3.5 - 3.7 | Homework 2 in. |
+| Fri 2/5 | TCP | | |
+| Wed 2/10 | Review for Midterm | | |
+| Fri 2/12 | Midterm | | |
+| Wed 2/17 | Network Layer (intro, routing principles, routing algorithms) | Ch. 4.1 - 4.2, 4.5 | Homework 3 out. |
+| Fri 2/19 | Network Layer (IP) | Ch. 4.4 | |
+| Wed 2/24 | Network Layer (hierarchical routing, RIP, OSPF, BGP) | Ch. 4.4 - 4.6 | Project 2 in. Project 3 out. |
+| Fri 2/26 | Data Link Layer (intro, error detection/correction, multiple access protocols) | Ch. 5.1 - 5.3 | Homework 3 in. Homework 4 out. |
+| Wed 3/2 | Data Link Layer (link-layer addressing, Ethernet, hubs and switches) | Ch. 5.4 - 5.6 | |
+| Fri 3/4 | Wireless and Mobile Networks (intro, wireless links, 802.11 wireless LANs) | Ch. 6.1 - 6.3 | |
+| Wed 3/9 | Networking Security | Ch. 8 | Project 3 in. |
+| Fri 3/11 | Review for final/Research in networking | | Homework 4 in. |
+| Wed 3/16 | Final: 3-5pm in Tech L361 | | |
