@@ -24,6 +24,7 @@
 | 8	| 2/23 2/25 | |	
 | 9	| 3/1 3/3	| [Routing](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/routing.pdf) |
 
-## EECS 340: Useful Links for Project 2
-### Minet:
-* [The Minet Technical Report](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/NWU-CS-02-08.pdf)
+* EECS 340: Useful Links for Project 2
+  * Minet:
+    * [The Minet Technical Report](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/NWU-CS-02-08.pdf)
+    * [The Minet Socket Interface](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/minet_sockets.pdf)
