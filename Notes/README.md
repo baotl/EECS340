@@ -28,3 +28,9 @@
   * Minet:
     * [The Minet Technical Report](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/NWU-CS-02-08.pdf)
     * [The Minet Socket Interface](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/minet_sockets.pdf)
+  * TCP Guides:
+    * [RFC 793](http://www.freesoft.org/CIE/RFC/793/) (in convenient HTML format), [RFC 1122](http://www.faqs.org/rfcs/rfc1122.html)
+    * [A very useful summary and picture of the TCP State diagram](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/TCPIP_State_Transition_Diagram.pdf)
+    * [TCP, UDP and IP pocket guide](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/pocket_guide.pdf) includes header details
+    * [Brief overview of TCP](http://www.freesoft.org/CIE/Topics/83.htm) contains a nice summary of the essentials
+    * [Here is a page with nice TCP animations](http://www.netbook.cs.purdue.edu/). They explain TCP connection startup, termination, data flow and flow control and cumulative ack concepts. Please see animations 20_1 to 20_5.
