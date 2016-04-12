@@ -19,7 +19,7 @@
 | 3	| 1/19, 1/21 | [Advanced Sockets](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/advanced_sockets.pdf); [client.c](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/client.c); [selectserver.c](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/selectserver.c) |
 | 4	| 1/26, 1/28 | IP Assignments |
 | 5	| 2/2, 2/4 | |
-| 6	| 2/9, 2/11	| Project 2; Useful Project 2 - related links
+| 6	| 2/9, 2/11	| [Project 2](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/proj_2_recitation.pdf); Useful Project 2 - related links
 | 7	| 2/16, 2/18 | |
 | 8	| 2/23 2/25 | |	
-| 9	| 3/1 3/3	| Routing |
+| 9	| 3/1 3/3	| [Routing](https://github.com/yuanhui-yang/EECS340/raw/master/Notes/routing.pdf) |
