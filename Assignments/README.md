@@ -4,7 +4,7 @@
 * Assigned: January 06
 * Due: January 27
 * [Project 1 Description](https://github.com/yuanhui-yang/EECS340/raw/master/Assignments/project1.pdf)
-* [minet-netclass-w15.tar.gz](https://github.com/yuanhui-yang/EECS340/raw/master/Assignments/minet-netclass-w15.tar.gz)
+* [[minet-netclass-w15.tar.gz](https://github.com/yuanhui-yang/EECS340/raw/master/Assignments/minet-netclass-w15.tar.gz)]
 
 ## Project 2: TCP/IP Web Client and Server
 * Assigned: January 27
@@ -12,13 +12,13 @@
 * [Project 2 Description](https://github.com/yuanhui-yang/EECS340/raw/master/Assignments/project2_16.pdf)
 * [IP address block assignments](https://github.com/yuanhui-yang/EECS340/raw/master/Assignments/EECS%20340%20IP%20Assignments.pdf)
 * [Instructions on obtaining IP address block](https://groups.google.com/forum/#!topic/eecs340/wkN6U96mxyE)
-* [minet-netclass-w16-proj2.tgz](https://github.com/yuanhui-yang/EECS340/raw/master/Assignments/minet-netclass-w16-proj2.tgz)
+* [[minet-netclass-w16-proj2.tgz](https://github.com/yuanhui-yang/EECS340/raw/master/Assignments/minet-netclass-w16-proj2.tgz)]
 
 ## Project 3: TCP/IP Web Client and Server
 * Assigned: Feb 24
 * Due: Mar 9
 * [Project 3 Description](https://github.com/yuanhui-yang/EECS340/raw/master/Assignments/project3.pdf)
-* [routelab-w15.tar.gz](https://github.com/yuanhui-yang/EECS340/raw/master/Assignments/routelab-w15.tar.gz)
+* [[routelab-w15.tar.gz](https://github.com/yuanhui-yang/EECS340/raw/master/Assignments/routelab-w15.tar.gz)]
 
 ## Handouts and Documentation
 * [Minet Sockets (1)](https://github.com/yuanhui-yang/EECS340/raw/master/Assignments/minet_sockets.pdf)
