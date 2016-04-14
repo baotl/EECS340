@@ -14,7 +14,7 @@
 * [Instructions on obtaining IP address block](https://groups.google.com/forum/#!topic/eecs340/wkN6U96mxyE)
 * [[minet-netclass-w16-proj2.tgz](https://github.com/yuanhui-yang/EECS340/raw/master/Assignments/minet-netclass-w16-proj2.tgz)]
 
-## Project 3: TCP/IP Web Client and Server
+## Project 3: Routing Simulator
 * Assigned: Feb 24
 * Due: Mar 9
 * [Project 3 Description](https://github.com/yuanhui-yang/EECS340/raw/master/Assignments/project3.pdf)
